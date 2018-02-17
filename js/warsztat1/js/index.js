@@ -5,6 +5,6 @@ function iloczynpar(parametr1, parametr2, parametr3){
     return (wynik);
 }
 
-var liczba = iloczynpar(5, 5, 5);
+var liczba = iloczynpar(3, 3, 3);
 console.log(liczba);
 
